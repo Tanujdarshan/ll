@@ -1,0 +1,11 @@
+Record,Age,Marital,Income,Risk
+1,22,Single,"$46,156.98",Bad loss
+2,33,Married,"$24,188.10",Bad loss
+3,28,Other,"$28,787.34",Bad loss
+4,51,Other,"$23,886.72",Bad loss
+5,25,Single,"$47,281.44",Bad loss
+6,39,Single,"$33,994.90",Good risk
+7,54,Single,"$28,716.50",Good risk
+8,55,Married,"$49,186.75",Good risk
+9,50,Married,"$46,726.50",Good risk
+10,66,Married,"$36,120.34",?

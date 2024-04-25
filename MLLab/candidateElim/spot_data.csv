@@ -1,0 +1,7 @@
+sky,airtemp,water,humidity,day,forecast,play
+sunny,hot,light,high,weekend,Same,Yes
+sunny,mild,strong,high,weekday,Change,Yes
+sunny,mild,moderate,low,weekday,Change,Yes
+rainy,hot,light,high,weekend,Same,No
+rainy,mild,moderate,low,weekday,Same,No
+sunny,mild,light,high,weekend,Same,Yes
