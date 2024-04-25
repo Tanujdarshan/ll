@@ -1,2 +1,2 @@
-# MachineLearningLab
-2024 Semester 6
+Machine Learning Lab
+2024 - Semester 6
